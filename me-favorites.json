@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "tags": [
+        "angularjs",
+        "dependency-injection",
+        "angularjs-service",
+        "angularjs-factory",
+        "angularjs-provider"
+      ],
+      "owner": {
+        "reputation": 15979,
+        "user_id": 146636,
+        "user_type": "registered",
+        "accept_rate": 54,
+        "profile_image": "https://www.gravatar.com/avatar/95e8aba2803db0106c1e0a0f73b7e62e?s=128&d=identicon&r=PG",
+        "display_name": "Lior",
+        "link": "http://stackoverflow.com/users/146636/lior"
+      },
+      "is_answered": true,
+      "view_count": 572665,
+      "protected_date": 1434015547,
+      "accepted_answer_id": 15666049,
+      "answer_count": 28,
+      "score": 2420,
+      "last_activity_date": 1463967883,
+      "creation_date": 1364407186,
+      "last_edit_date": 1450366449,
+      "question_id": 15666048,
+      "link": "http://stackoverflow.com/questions/15666048/angularjs-service-vs-provider-vs-factory",
+      "title": "AngularJS: Service vs provider vs factory"
+    },
+    {
+      "tags": [
+        "aurelia"
+      ],
+      "owner": {
+        "reputation": 895,
+        "user_id": 1874522,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://i.stack.imgur.com/1BXUD.png?s=128&g=1",
+        "display_name": "peinearydevelopment",
+        "link": "http://stackoverflow.com/users/1874522/peinearydevelopment"
+      },
+      "is_answered": true,
+      "view_count": 4232,
+      "accepted_answer_id": 33909191,
+      "answer_count": 1,
+      "score": 29,
+      "last_activity_date": 1456887622,
+      "creation_date": 1448400882,
+      "last_edit_date": 1451332273,
+      "question_id": 33904248,
+      "link": "http://stackoverflow.com/questions/33904248/aurelia-delegate-vs-trigger-how-do-you-know-when-to-use-delegate-or-trigger",
+      "title": "Aurelia delegate vs trigger: how do you know when to use delegate or trigger?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "dependency-injection"
+      ],
+      "owner": {
+        "reputation": 1064,
+        "user_id": 1527166,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://www.gravatar.com/avatar/620ecda510717e18539e7128449644da?s=128&d=identicon&r=PG",
+        "display_name": "user1527166",
+        "link": "http://stackoverflow.com/users/1527166/user1527166"
+      },
+      "is_answered": true,
+      "view_count": 25944,
+      "protected_date": 1443974364,
+      "accepted_answer_id": 16829270,
+      "answer_count": 3,
+      "score": 120,
+      "last_activity_date": 1448856908,
+      "creation_date": 1369890172,
+      "question_id": 16828287,
+      "link": "http://stackoverflow.com/questions/16828287/what-things-can-be-injected-into-others-in-angular-js",
+      "title": "What &quot;things&quot; can be injected into others in Angular.js?"
+    }
+  ],
+  "has_more": false,
+  "quota_max": 10000,
+  "quota_remaining": 9997
+}

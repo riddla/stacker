@@ -1,0 +1,709 @@
+{
+  "items": [
+    {
+      "tags": [
+        "typescript",
+        "visual-studio-2015"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 0,
+      "last_activity_date": 1467971190,
+      "creation_date": 1467971190,
+      "answer_id": 38263591,
+      "question_id": 30352657,
+      "link": "http://stackoverflow.com/questions/30352657/visual-studio-2015-rc-does-not-create-sourcemap-when-saving-typescript-file/38263591#38263591",
+      "title": "Visual Studio 2015 RC does not create sourcemap when saving Typescript file"
+    },
+    {
+      "tags": [
+        "asp.net-mvc",
+        "typescript",
+        "aurelia",
+        "aurelia-router",
+        "aurelia-templating"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": true,
+      "score": 2,
+      "last_activity_date": 1466144699,
+      "creation_date": 1466144699,
+      "answer_id": 37874542,
+      "question_id": 37870145,
+      "link": "http://stackoverflow.com/questions/37870145/customizing-aurelia-to-use-cshtml/37874542#37874542",
+      "title": "Customizing Aurelia to use .cshtml"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jestjs"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 4,
+      "last_activity_date": 1446106195,
+      "last_edit_date": 1446106195,
+      "creation_date": 1440170126,
+      "answer_id": 32143900,
+      "question_id": 30027494,
+      "link": "http://stackoverflow.com/questions/30027494/how-to-write-a-jest-configuration-file/32143900#32143900",
+      "title": "How to write a Jest configuration file"
+    },
+    {
+      "tags": [
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 0,
+      "last_activity_date": 1421828297,
+      "creation_date": 1421828297,
+      "answer_id": 28062471,
+      "question_id": 28050202,
+      "link": "http://stackoverflow.com/questions/28050202/how-to-use-visitor-locale-in-middleman/28062471#28062471",
+      "title": "How to use visitor locale in middleman?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "casperjs"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 0,
+      "last_activity_date": 1416555923,
+      "creation_date": 1416555923,
+      "answer_id": 27056461,
+      "question_id": 27036989,
+      "link": "http://stackoverflow.com/questions/27036989/casperjs-does-not-get-scope-variables-from-angularjs/27056461#27056461",
+      "title": "casperjs does not get $scope variables from AngularJS"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "casperjs"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 1,
+      "last_activity_date": 1416555893,
+      "creation_date": 1416555893,
+      "answer_id": 27056451,
+      "question_id": 27035005,
+      "link": "http://stackoverflow.com/questions/27035005/casperjs-is-not-working-well-on-angularjs/27056451#27056451",
+      "title": "CasperJS is not working well on AngularJS"
+    },
+    {
+      "tags": [
+        "ruby",
+        "image",
+        "file",
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": true,
+      "score": 2,
+      "last_activity_date": 1413962001,
+      "creation_date": 1413962001,
+      "answer_id": 26502129,
+      "question_id": 26475309,
+      "link": "http://stackoverflow.com/questions/26475309/check-if-image-file-exists-using-middleman/26502129#26502129",
+      "title": "Check if image file exists using middleman"
+    },
+    {
+      "tags": [
+        "ruby",
+        "sitemap",
+        "sprockets",
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 1,
+      "last_activity_date": 1407737923,
+      "creation_date": 1407737923,
+      "answer_id": 25236921,
+      "question_id": 25219509,
+      "link": "http://stackoverflow.com/questions/25219509/how-to-get-the-raw-content-from-all-pages/25236921#25236921",
+      "title": "How to get the raw &quot;content&quot; from all pages"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "sprockets",
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": true,
+      "score": 0,
+      "last_activity_date": 1407140155,
+      "creation_date": 1407140155,
+      "answer_id": 25114324,
+      "question_id": 25099636,
+      "link": "http://stackoverflow.com/questions/25099636/handling-assets-on-angularjs-and-middleman/25114324#25114324",
+      "title": "Handling assets on angularjs and middleman"
+    },
+    {
+      "tags": [
+        "ruby",
+        "sprockets",
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": true,
+      "score": 7,
+      "last_activity_date": 1395924280,
+      "last_edit_date": 1395924280,
+      "creation_date": 1372920662,
+      "answer_id": 17463615,
+      "question_id": 17434053,
+      "link": "http://stackoverflow.com/questions/17434053/middleman-asset-path-for-cdn-at-build-time/17463615#17463615",
+      "title": "middleman - asset path for CDN at build time"
+    },
+    {
+      "tags": [
+        "php",
+        "apache",
+        "mamp",
+        "xip.io"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 2,
+      "last_activity_date": 1394983892,
+      "creation_date": 1394983892,
+      "answer_id": 22438851,
+      "question_id": 17748150,
+      "link": "http://stackoverflow.com/questions/17748150/local-device-testing-issues-with-xip-io/22438851#22438851",
+      "title": "Local device testing issues with xip.io"
+    },
+    {
+      "tags": [
+        "ruby",
+        "json",
+        "erb",
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": true,
+      "score": 0,
+      "last_activity_date": 1394526996,
+      "creation_date": 1394526996,
+      "answer_id": 22320304,
+      "question_id": 22303062,
+      "link": "http://stackoverflow.com/questions/22303062/reference-middleman-config-property-dynamically-based-on-current-page/22320304#22320304",
+      "title": "Reference middleman config property dynamically based on current page"
+    },
+    {
+      "tags": [
+        "ajax",
+        "json",
+        "api",
+        "angularjs",
+        "jsonp"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": true,
+      "score": 1,
+      "last_activity_date": 1394022930,
+      "creation_date": 1394022930,
+      "answer_id": 22197976,
+      "question_id": 22174833,
+      "link": "http://stackoverflow.com/questions/22174833/what-free-and-public-image-json-api-can-i-use-for-testing-json-request/22197976#22197976",
+      "title": "What free and public image JSON API can I use for testing JSON request"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": true,
+      "score": 1,
+      "last_activity_date": 1390986196,
+      "creation_date": 1390986196,
+      "answer_id": 21426405,
+      "question_id": 21389215,
+      "link": "http://stackoverflow.com/questions/21389215/redirecting-folders-in-middlemans-config-rb/21426405#21426405",
+      "title": "Redirecting Folders in Middleman&#39;s config.rb"
+    },
+    {
+      "tags": [
+        "javascript",
+        "regex",
+        "ember.js",
+        "zurb-foundation",
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 0,
+      "last_activity_date": 1390310246,
+      "creation_date": 1390310246,
+      "answer_id": 21259293,
+      "question_id": 21227183,
+      "link": "http://stackoverflow.com/questions/21227183/differences-in-js-between-middleman-server-and-middleman-build/21259293#21259293",
+      "title": "Differences in JS between &#39;middleman server&#39; and &#39;middleman build&#39;"
+    },
+    {
+      "tags": [
+        "ruby",
+        "twitter-bootstrap",
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": true,
+      "score": 1,
+      "last_activity_date": 1388748914,
+      "creation_date": 1388748914,
+      "answer_id": 20902734,
+      "question_id": 20874424,
+      "link": "http://stackoverflow.com/questions/20874424/javascript-on-middleman-not-working/20902734#20902734",
+      "title": "Javascript on Middleman not working"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "ruby",
+        "sass",
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 1,
+      "last_activity_date": 1384245977,
+      "creation_date": 1384245977,
+      "answer_id": 19924592,
+      "question_id": 19904782,
+      "link": "http://stackoverflow.com/questions/19904782/dynamic-content-depending-on-css-class/19924592#19924592",
+      "title": "Dynamic content depending on css class"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 1,
+      "last_activity_date": 1378307276,
+      "creation_date": 1378307276,
+      "answer_id": 18617468,
+      "question_id": 18617198,
+      "link": "http://stackoverflow.com/questions/18617198/javascript-printer-has-no-paper-how-can-i-check-it/18617468#18617468",
+      "title": "javascript- printer has no paper, how can i check it"
+    },
+    {
+      "tags": [
+        "localhost",
+        "middleman",
+        "livereload"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 0,
+      "last_activity_date": 1378191773,
+      "creation_date": 1378191773,
+      "answer_id": 18586052,
+      "question_id": 18367021,
+      "link": "http://stackoverflow.com/questions/18367021/localhost-will-not-show-changes-to-website/18586052#18586052",
+      "title": "localhost will not show changes to website"
+    },
+    {
+      "tags": [
+        "assets",
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 0,
+      "last_activity_date": 1377967947,
+      "creation_date": 1377967947,
+      "answer_id": 18550500,
+      "question_id": 18525769,
+      "link": "http://stackoverflow.com/questions/18525769/multiple-asset-directories-in-middleman-project/18550500#18550500",
+      "title": "Multiple asset directories in Middleman project"
+    },
+    {
+      "tags": [
+        "import",
+        "sass",
+        "middleman",
+        "bourbon"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 1,
+      "last_activity_date": 1377069797,
+      "creation_date": 1377069797,
+      "answer_id": 18351209,
+      "question_id": 18326953,
+      "link": "http://stackoverflow.com/questions/18326953/change-middleman-css-directory/18351209#18351209",
+      "title": "Change Middleman CSS Directory"
+    },
+    {
+      "tags": [
+        "ruby",
+        "gem",
+        "bundle",
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": true,
+      "score": 5,
+      "last_activity_date": 1375968523,
+      "last_edit_date": 1375968523,
+      "creation_date": 1375863762,
+      "answer_id": 18098272,
+      "question_id": 18081652,
+      "link": "http://stackoverflow.com/questions/18081652/error-with-dependencies-with-middleman-and-gemfile/18098272#18098272",
+      "title": "Error with dependencies with middleman and Gemfile"
+    },
+    {
+      "tags": [
+        "ruby",
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": true,
+      "score": 2,
+      "last_activity_date": 1375533155,
+      "creation_date": 1375533155,
+      "answer_id": 18032905,
+      "question_id": 17999050,
+      "link": "http://stackoverflow.com/questions/17999050/middleman-output-path/18032905#18032905",
+      "title": "Middleman Output Path"
+    },
+    {
+      "tags": [
+        "ruby",
+        "rubygems",
+        "compass-sass"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 11,
+      "last_activity_date": 1374658440,
+      "creation_date": 1374658440,
+      "answer_id": 17830215,
+      "question_id": 16877028,
+      "link": "http://stackoverflow.com/questions/16877028/why-does-compass-watch-say-it-cannot-load-sass-script-node-loaderror/17830215#17830215",
+      "title": "Why does &quot;compass watch&quot; say it cannot load sass/script/node (LoadError)?"
+    },
+    {
+      "tags": [
+        "ruby",
+        "haml",
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": true,
+      "score": 6,
+      "last_activity_date": 1372860370,
+      "last_edit_date": 1372860370,
+      "creation_date": 1372064061,
+      "answer_id": 17271526,
+      "question_id": 17213713,
+      "link": "http://stackoverflow.com/questions/17213713/how-to-repeat-middleman-build-process-with-different-variables/17271526#17271526",
+      "title": "How to repeat Middleman build process with different variables?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "function",
+        "private",
+        "deferred"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 0,
+      "last_activity_date": 1372329546,
+      "creation_date": 1372329546,
+      "answer_id": 17340931,
+      "question_id": 17340558,
+      "link": "http://stackoverflow.com/questions/17340558/using-deferred-objects-with-private-dynamic-calling-functions-revealing-pattern/17340931#17340931",
+      "title": "Using deferred objects with private dynamic calling functions (Revealing pattern)"
+    },
+    {
+      "tags": [
+        "ruby",
+        "sinatra",
+        "yaml",
+        "padrino",
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 1,
+      "last_activity_date": 1372316226,
+      "creation_date": 1372316226,
+      "answer_id": 17336511,
+      "question_id": 15093062,
+      "link": "http://stackoverflow.com/questions/15093062/iterating-over-yaml-data-in-middleman-template/17336511#17336511",
+      "title": "iterating over yaml data in middleman template"
+    },
+    {
+      "tags": [
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": true,
+      "score": 3,
+      "last_activity_date": 1372246920,
+      "creation_date": 1372246920,
+      "answer_id": 17319061,
+      "question_id": 17296225,
+      "link": "http://stackoverflow.com/questions/17296225/middleman-localizing-data-yaml-files/17319061#17319061",
+      "title": "Middleman - Localizing data/yaml files"
+    },
+    {
+      "tags": [
+        "middleman"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": true,
+      "score": 3,
+      "last_activity_date": 1372229239,
+      "creation_date": 1372229239,
+      "answer_id": 17313276,
+      "question_id": 17296197,
+      "link": "http://stackoverflow.com/questions/17296197/middleman-how-do-i-access-locale-localization-lang-variable/17313276#17313276",
+      "title": "Middleman - how do I access Locale / Localization / lang variable"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "ajax",
+        "filter"
+      ],
+      "owner": {
+        "reputation": 1271,
+        "user_id": 341983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d2315be7154fc491199c99f0ce38e271?s=128&d=identicon&r=PG",
+        "display_name": "Volker Rose",
+        "link": "http://stackoverflow.com/users/341983/volker-rose"
+      },
+      "is_accepted": false,
+      "score": 3,
+      "last_activity_date": 1370619062,
+      "creation_date": 1370619062,
+      "answer_id": 16987804,
+      "question_id": 5898011,
+      "link": "http://stackoverflow.com/questions/5898011/jquery-javascript-filtering-html-object-from-ajax-response/16987804#16987804",
+      "title": "Jquery/javascript, filtering html object from ajax response"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9998
+}
