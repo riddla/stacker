@@ -18,7 +18,12 @@ define(["require", "exports", 'typeahead', 'jquery', 'typeahead'], function (req
             promise
                 .done(function () { console.log('ready to go!'); })
                 .fail(function () { console.log('err, something went wrong :('); });
-            $('.typeahead').typeahead(null, {
+            $('.typeahead').typeahead({
+                classNames: {
+                    input: 'form-control input-lg',
+                    suggestion: 'btn btn-primary'
+                }
+            }, {
                 name: 'foo',
                 displayKey: 'title',
                 source: answers.ttAdapter()

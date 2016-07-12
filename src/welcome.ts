@@ -10,7 +10,7 @@ export class Welcome {
       queryTokenizer: Bloodhound.tokenizers.whitespace,
       prefetch: {
         url: 'http://localhost:9000/me-answers.json',
-        transform: function(response) {
+        transform: function (response) {
           return response.items;
         }
       }
@@ -19,13 +19,18 @@ export class Welcome {
     let promise = answers.initialize();
 
     promise
-.done(function() { console.log('ready to go!'); })
-.fail(function() { console.log('err, something went wrong :('); });
+      .done(function () { console.log('ready to go!'); })
+      .fail(function () { console.log('err, something went wrong :('); });
 
-    $('.typeahead').typeahead(null, {
-      name: 'foo',
-      displayKey: 'title',
-      source: answers.ttAdapter()
-    });
+    $('.typeahead').typeahead({
+      classNames: {
+        input: 'form-control input-lg',
+        suggestion: 'btn btn-primary'
+      }
+    }, {
+        name: 'foo',
+        displayKey: 'title',
+        source: answers.ttAdapter()
+      });
   }
 }
